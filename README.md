@@ -9,3 +9,4 @@
 <br>
 ✅ There are <b>9 photo categories</b> in total:<br> 
 🔹 Animals 🔹 Architeture 🔹 City 🔹 Decoration 🔹 Sports 🔹 Nature 🔹 Churches 🔹 Tourists Spots 🔹 Motocyles<br>
+<br>
